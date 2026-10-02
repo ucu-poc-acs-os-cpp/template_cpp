@@ -3,7 +3,7 @@
 # Lab work <mark>NUMBER</mark>: <mark>SHORT TOPIC</mark>
 
 Authors (team): <mark>AUTHORS WITH GITHUB LINKS</mark><br>
-Variant: <mark>VARIANT SHOULD BE HERE</mark>
+Variant: <mark>VARIANT SHOULD BE HERE (you can remove this line if the lab has no variants)</mark>
 
 ## Prerequisites
 
