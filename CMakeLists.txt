@@ -69,10 +69,9 @@ add_executable(${PROJECT_NAME} src/main.cpp)
 
 #! Add external packages
 # Uncomment if you need Boost or other packages
-# find_package(Boost REQUIRED COMPONENTS system)
+# find_package(Boost REQUIRED CONFIG COMPONENTS system)
 
 #! Then link them to your target
-# target_include_directories(${PROJECT_NAME} PRIVATE ${Boost_INCLUDE_DIR})
 # target_link_libraries(${PROJECT_NAME} PRIVATE Boost::system)
 
 # If there are any commands that should be executed for all targets, 
