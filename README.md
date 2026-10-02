@@ -9,16 +9,12 @@ Variant: <mark>VARIANT SHOULD BE HERE</mark>
 
 <mark>LIST LIBRARIES/TOOLS/OTHER UTILITIES THAT NEED TO BE INSTALLED (E.G. GCC, OPENMP, CMAKE ETC)</mark>
 
+<mark>Note: For Python scripts, You must add `requirements.txt` 
+file and add your env to the `.gitignore` file!</mark>
+
 ## Compilation
 
 <mark>HOW TO COMPILE YOUR PROGRAM? (RECOMMENDED: ./compile.sh -- use `./compile.sh -h` for info)</mark>
-
-## Installation
-
-<mark>DESCRIBE THE INSTALLATION PROCESS (USE ./dependencies FOLDER)</mark>
-
-<mark>Note: For Python scripts, You must add `requirements.txt` 
-file and add your env to the `.gitignore` file!</mark>
 
 ## Usage
 
